@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/clementabs/Desktop/C#/demomvc/demomvc.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "demomvc",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

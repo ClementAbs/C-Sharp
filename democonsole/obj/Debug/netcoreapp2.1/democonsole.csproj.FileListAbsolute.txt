@@ -1,0 +1,11 @@
+/Users/clementabs/Desktop/C#/democonsole/obj/Debug/netcoreapp2.1/democonsole.csprojAssemblyReference.cache
+/Users/clementabs/Desktop/C#/democonsole/obj/Debug/netcoreapp2.1/democonsole.csproj.CoreCompileInputs.cache
+/Users/clementabs/Desktop/C#/democonsole/obj/Debug/netcoreapp2.1/democonsole.AssemblyInfoInputs.cache
+/Users/clementabs/Desktop/C#/democonsole/obj/Debug/netcoreapp2.1/democonsole.AssemblyInfo.cs
+/Users/clementabs/Desktop/C#/democonsole/bin/Debug/netcoreapp2.1/democonsole.deps.json
+/Users/clementabs/Desktop/C#/democonsole/bin/Debug/netcoreapp2.1/democonsole.runtimeconfig.json
+/Users/clementabs/Desktop/C#/democonsole/bin/Debug/netcoreapp2.1/democonsole.runtimeconfig.dev.json
+/Users/clementabs/Desktop/C#/democonsole/bin/Debug/netcoreapp2.1/democonsole.dll
+/Users/clementabs/Desktop/C#/democonsole/bin/Debug/netcoreapp2.1/democonsole.pdb
+/Users/clementabs/Desktop/C#/democonsole/obj/Debug/netcoreapp2.1/democonsole.dll
+/Users/clementabs/Desktop/C#/democonsole/obj/Debug/netcoreapp2.1/democonsole.pdb
